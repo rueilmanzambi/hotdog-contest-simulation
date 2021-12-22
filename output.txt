@@ -1,0 +1,298 @@
+			Welcome to the opening of Cletu's Famous Road Kill Cafe
+			-------------------------------------------------------
+Begin the Contest!!!
+The Contestants are:
+
+    Henry 84 lbs, has 23 health value and $44.00.
+    Clayton 242 lbs, has 42 health value and $68.00.
+    Abby 104 lbs, has 58 health value and $57.00.
+    Alex 162 lbs, has 83 health value and $37.00.
+    Angel 173 lbs, has 5 health value and $35.00.
+    Bailey 145 lbs, has 10 health value and $69.00.
+    Annie 83 lbs, has 83 health value and $40.00.
+    Bandit 155 lbs, has 95 health value and $71.00.
+    Baby 125 lbs, has 22 health value and $54.00.
+    Bear 201 lbs, has 11 health value and $73.00.
+    Binky 92 lbs, has 5 health value and $66.00.
+    Beau 86 lbs, has 29 health value and $46.00.
+    Blue 230 lbs, has 46 health value and $68.00.
+    Bill 72 lbs, has 42 health value and $67.00.
+    Boo 145 lbs, has 2 health value and $46.00.
+
+
+-------------------------- ROUND #1 ---------------------------
+
+Hawt dawg price: $5.25
+
+    Henry eats a dawg wt 88, health value 21, $38.75 left ... ALIVE
+    Clayton eats a dawg wt 246, health value 40, $62.75 left ... ALIVE
+    Abby eats a dawg wt 108, health value 56, $51.75 left ... ALIVE
+    Alex eats a dawg wt 166, health value 81, $31.75 left ... ALIVE
+    Angel eats a dawg wt 177, health value 3, $29.75 left ... ALIVE
+    Bailey eats a dawg wt 149, health value 8, $63.75 left ... ALIVE
+    Annie eats a dawg wt 87, health value 81, $34.75 left ... ALIVE
+    Bandit eats a dawg wt 159, health value 93, $65.75 left ... ALIVE
+    Baby eats a dawg wt 129, health value 20, $48.75 left ... ALIVE
+    Bear eats a dawg wt 205, health value 9, $67.75 left ... ALIVE
+    Binky eats a dawg wt 96, health value 3, $60.75 left ... ALIVE
+    Beau eats a dawg wt 90, health value 27, $40.75 left ... ALIVE
+    Blue eats a dawg wt 234, health value 44, $62.75 left ... ALIVE
+    Bill eats a dawg wt 76, health value 40, $61.75 left ... ALIVE
+    Boo eats a dawg wt 149, health value 0, $40.75 left ... DEAD
+
+-------------------------- ROUND #2 ---------------------------
+
+Hawt dawg price: $2.75
+
+    Henry eats a dawg wt 92, health value 19, $36.00 left ... ALIVE
+    Clayton eats a dawg wt 250, health value 38, $60.00 left ... ALIVE
+    Abby eats a dawg wt 112, health value 54, $49.00 left ... ALIVE
+    Alex eats a dawg wt 170, health value 79, $29.00 left ... ALIVE
+    Angel eats a dawg wt 181, health value 1, $27.00 left ... ALIVE
+    Bailey eats a dawg wt 153, health value 6, $61.00 left ... ALIVE
+    Annie eats a dawg wt 91, health value 79, $32.00 left ... ALIVE
+    Bandit eats a dawg wt 163, health value 91, $63.00 left ... ALIVE
+    Baby eats a dawg wt 133, health value 18, $46.00 left ... ALIVE
+    Bear eats a dawg wt 209, health value 7, $65.00 left ... ALIVE
+    Binky eats a dawg wt 100, health value 1, $58.00 left ... ALIVE
+    Beau eats a dawg wt 94, health value 25, $38.00 left ... ALIVE
+    Blue eats a dawg wt 238, health value 42, $60.00 left ... ALIVE
+    Bill eats a dawg wt 80, health value 38, $59.00 left ... ALIVE
+
+-------------------------- ROUND #3 ---------------------------
+
+Hawt dawg price: $1.75
+
+    Henry eats a dawg wt 96, health value 17, $34.25 left ... ALIVE
+    Clayton eats a dawg wt 254, health value 36, $58.25 left ... ALIVE
+    Abby eats a dawg wt 116, health value 52, $47.25 left ... ALIVE
+    Alex eats a dawg wt 174, health value 77, $27.25 left ... ALIVE
+    Angel eats a dawg wt 185, health value 0, $25.25 left ... DEAD
+    Bailey eats a dawg wt 157, health value 4, $59.25 left ... ALIVE
+    Annie eats a dawg wt 95, health value 77, $30.25 left ... ALIVE
+    Bandit eats a dawg wt 167, health value 89, $61.25 left ... ALIVE
+    Baby eats a dawg wt 137, health value 16, $44.25 left ... ALIVE
+    Bear eats a dawg wt 213, health value 5, $63.25 left ... ALIVE
+    Binky eats a dawg wt 104, health value 0, $56.25 left ... DEAD
+    Beau eats a dawg wt 98, health value 23, $36.25 left ... ALIVE
+    Blue eats a dawg wt 242, health value 40, $58.25 left ... ALIVE
+    Bill eats a dawg wt 84, health value 36, $57.25 left ... ALIVE
+
+-------------------------- ROUND #4 ---------------------------
+
+Hawt dawg price: $6.00
+
+    Henry eats a dawg wt 100, health value 15, $28.25 left ... ALIVE
+    Clayton eats a dawg wt 258, health value 34, $52.25 left ... ALIVE
+    Abby eats a dawg wt 120, health value 50, $41.25 left ... ALIVE
+    Alex eats a dawg wt 178, health value 75, $21.25 left ... ALIVE
+    Bailey eats a dawg wt 161, health value 2, $53.25 left ... ALIVE
+    Annie eats a dawg wt 99, health value 75, $24.25 left ... ALIVE
+    Bandit eats a dawg wt 171, health value 87, $55.25 left ... ALIVE
+    Baby eats a dawg wt 141, health value 14, $38.25 left ... ALIVE
+    Bear eats a dawg wt 217, health value 3, $57.25 left ... ALIVE
+    Beau eats a dawg wt 102, health value 21, $30.25 left ... ALIVE
+    Blue eats a dawg wt 246, health value 38, $52.25 left ... ALIVE
+    Bill eats a dawg wt 88, health value 34, $51.25 left ... ALIVE
+
+-------------------------- ROUND #5 ---------------------------
+
+Hawt dawg price: $4.00
+
+    Henry eats a dawg wt 104, health value 13, $24.25 left ... ALIVE
+    Clayton eats a dawg wt 262, health value 32, $48.25 left ... ALIVE
+    Abby eats a dawg wt 124, health value 48, $37.25 left ... ALIVE
+    Alex eats a dawg wt 182, health value 73, $17.25 left ... ALIVE
+    Bailey eats a dawg wt 165, health value 0, $49.25 left ... DEAD
+    Annie eats a dawg wt 103, health value 73, $20.25 left ... ALIVE
+    Bandit eats a dawg wt 175, health value 85, $51.25 left ... ALIVE
+    Baby eats a dawg wt 145, health value 12, $34.25 left ... ALIVE
+    Bear eats a dawg wt 221, health value 1, $53.25 left ... ALIVE
+    Beau eats a dawg wt 106, health value 19, $26.25 left ... ALIVE
+    Blue eats a dawg wt 250, health value 36, $48.25 left ... ALIVE
+    Bill eats a dawg wt 92, health value 32, $47.25 left ... ALIVE
+
+-------------------------- ROUND #6 ---------------------------
+
+Hawt dawg price: $2.00
+
+    Henry eats a dawg wt 108, health value 11, $22.25 left ... ALIVE
+    Clayton eats a dawg wt 266, health value 30, $46.25 left ... ALIVE
+    Abby eats a dawg wt 128, health value 46, $35.25 left ... ALIVE
+    Alex eats a dawg wt 186, health value 71, $15.25 left ... ALIVE
+    Annie eats a dawg wt 107, health value 71, $18.25 left ... ALIVE
+    Bandit eats a dawg wt 179, health value 83, $49.25 left ... ALIVE
+    Baby eats a dawg wt 149, health value 10, $32.25 left ... ALIVE
+    Bear eats a dawg wt 225, health value 0, $51.25 left ... DEAD
+    Beau eats a dawg wt 110, health value 17, $24.25 left ... ALIVE
+    Blue eats a dawg wt 254, health value 34, $46.25 left ... ALIVE
+    Bill eats a dawg wt 96, health value 30, $45.25 left ... ALIVE
+
+-------------------------- ROUND #7 ---------------------------
+
+Hawt dawg price: $4.50
+
+    Henry eats a dawg wt 112, health value 9, $17.75 left ... ALIVE
+    Clayton eats a dawg wt 270, health value 28, $41.75 left ... ALIVE
+    Abby eats a dawg wt 132, health value 44, $30.75 left ... ALIVE
+    Alex eats a dawg wt 190, health value 69, $10.75 left ... ALIVE
+    Annie eats a dawg wt 111, health value 69, $13.75 left ... ALIVE
+    Bandit eats a dawg wt 183, health value 81, $44.75 left ... ALIVE
+    Baby eats a dawg wt 153, health value 8, $27.75 left ... ALIVE
+    Beau eats a dawg wt 114, health value 15, $19.75 left ... ALIVE
+    Blue eats a dawg wt 258, health value 32, $41.75 left ... ALIVE
+    Bill eats a dawg wt 100, health value 28, $40.75 left ... ALIVE
+
+-------------------------- ROUND #8 ---------------------------
+
+Hawt dawg price: $5.50
+
+    Henry eats a dawg wt 116, health value 7, $12.25 left ... ALIVE
+    Clayton eats a dawg wt 274, health value 26, $36.25 left ... ALIVE
+    Abby eats a dawg wt 136, health value 42, $25.25 left ... ALIVE
+    Alex eats a dawg wt 194, health value 67, $5.25 left ... ALIVE
+    Annie eats a dawg wt 115, health value 67, $8.25 left ... ALIVE
+    Bandit eats a dawg wt 187, health value 79, $39.25 left ... ALIVE
+    Baby eats a dawg wt 157, health value 6, $22.25 left ... ALIVE
+    Beau eats a dawg wt 118, health value 13, $14.25 left ... ALIVE
+    Blue eats a dawg wt 262, health value 30, $36.25 left ... ALIVE
+    Bill eats a dawg wt 104, health value 26, $35.25 left ... ALIVE
+
+-------------------------- ROUND #9 ---------------------------
+
+Hawt dawg price: $2.50
+
+    Henry eats a dawg wt 120, health value 5, $9.75 left ... ALIVE
+    Clayton eats a dawg wt 278, health value 24, $33.75 left ... ALIVE
+    Abby eats a dawg wt 140, health value 40, $22.75 left ... ALIVE
+    Alex eats a dawg wt 198, health value 65, $2.75 left ... ALIVE
+    Annie eats a dawg wt 119, health value 65, $5.75 left ... ALIVE
+    Bandit eats a dawg wt 191, health value 77, $36.75 left ... ALIVE
+    Baby eats a dawg wt 161, health value 4, $19.75 left ... ALIVE
+    Beau eats a dawg wt 122, health value 11, $11.75 left ... ALIVE
+    Blue eats a dawg wt 266, health value 28, $33.75 left ... ALIVE
+    Bill eats a dawg wt 108, health value 24, $32.75 left ... ALIVE
+
+-------------------------- ROUND #10 ---------------------------
+
+Hawt dawg price: $5.00
+
+    Henry eats a dawg wt 124, health value 3, $4.75 left ... ALIVE
+    Clayton eats a dawg wt 282, health value 22, $28.75 left ... ALIVE
+    Abby eats a dawg wt 144, health value 38, $17.75 left ... ALIVE
+    Annie eats a dawg wt 123, health value 63, $0.75 left ... ALIVE
+    Bandit eats a dawg wt 195, health value 75, $31.75 left ... ALIVE
+    Baby eats a dawg wt 165, health value 2, $14.75 left ... ALIVE
+    Beau eats a dawg wt 126, health value 9, $6.75 left ... ALIVE
+    Blue eats a dawg wt 270, health value 26, $28.75 left ... ALIVE
+    Bill eats a dawg wt 112, health value 22, $27.75 left ... ALIVE
+
+-------------------------- ROUND #11 ---------------------------
+
+Hawt dawg price: $5.25
+
+    Clayton eats a dawg wt 286, health value 20, $23.50 left ... ALIVE
+    Abby eats a dawg wt 148, health value 36, $12.50 left ... ALIVE
+    Bandit eats a dawg wt 199, health value 73, $26.50 left ... ALIVE
+    Baby eats a dawg wt 169, health value 0, $9.50 left ... DEAD
+    Beau eats a dawg wt 130, health value 7, $1.50 left ... ALIVE
+    Blue eats a dawg wt 274, health value 24, $23.50 left ... ALIVE
+    Bill eats a dawg wt 116, health value 20, $22.50 left ... ALIVE
+
+-------------------------- ROUND #12 ---------------------------
+
+Hawt dawg price: $2.50
+
+    Henry eats a dawg wt 128, health value 1, $2.25 left ... ALIVE
+    Clayton eats a dawg wt 290, health value 18, $21.00 left ... ALIVE
+    Abby eats a dawg wt 152, health value 34, $10.00 left ... ALIVE
+    Alex eats a dawg wt 202, health value 63, $0.25 left ... ALIVE
+    Bandit eats a dawg wt 203, health value 71, $24.00 left ... ALIVE
+    Blue eats a dawg wt 278, health value 22, $21.00 left ... ALIVE
+    Bill eats a dawg wt 120, health value 18, $20.00 left ... ALIVE
+
+-------------------------- ROUND #13 ---------------------------
+
+Hawt dawg price: $2.25
+
+    Henry eats a dawg wt 132, health value 0, $0.00 left ... DEAD
+    Clayton eats a dawg wt 294, health value 16, $18.75 left ... ALIVE
+    Abby eats a dawg wt 156, health value 32, $7.75 left ... ALIVE
+    Bandit eats a dawg wt 207, health value 69, $21.75 left ... ALIVE
+    Blue eats a dawg wt 282, health value 20, $18.75 left ... ALIVE
+    Bill eats a dawg wt 124, health value 16, $17.75 left ... ALIVE
+
+-------------------------- ROUND #14 ---------------------------
+
+Hawt dawg price: $3.00
+
+    Clayton eats a dawg wt 298, health value 14, $15.75 left ... ALIVE
+    Abby eats a dawg wt 160, health value 30, $4.75 left ... ALIVE
+    Bandit eats a dawg wt 211, health value 67, $18.75 left ... ALIVE
+    Blue eats a dawg wt 286, health value 18, $15.75 left ... ALIVE
+    Bill eats a dawg wt 128, health value 14, $14.75 left ... ALIVE
+
+-------------------------- ROUND #15 ---------------------------
+
+Hawt dawg price: $2.50
+
+    Clayton eats a dawg wt 302, health value 12, $13.25 left ... ALIVE
+    Abby eats a dawg wt 164, health value 28, $2.25 left ... ALIVE
+    Bandit eats a dawg wt 215, health value 65, $16.25 left ... ALIVE
+    Blue eats a dawg wt 290, health value 16, $13.25 left ... ALIVE
+    Bill eats a dawg wt 132, health value 12, $12.25 left ... ALIVE
+
+-------------------------- ROUND #16 ---------------------------
+
+Hawt dawg price: $4.00
+
+    Clayton eats a dawg wt 306, health value 10, $9.25 left ... ALIVE
+    Bandit eats a dawg wt 219, health value 63, $12.25 left ... ALIVE
+    Blue eats a dawg wt 294, health value 14, $9.25 left ... ALIVE
+    Bill eats a dawg wt 136, health value 10, $8.25 left ... ALIVE
+
+-------------------------- ROUND #17 ---------------------------
+
+Hawt dawg price: $3.50
+
+    Clayton eats a dawg wt 310, health value 8, $5.75 left ... ALIVE
+    Bandit eats a dawg wt 223, health value 61, $8.75 left ... ALIVE
+    Blue eats a dawg wt 298, health value 12, $5.75 left ... ALIVE
+    Bill eats a dawg wt 140, health value 8, $4.75 left ... ALIVE
+
+-------------------------- ROUND #18 ---------------------------
+
+Hawt dawg price: $4.00
+
+    Clayton eats a dawg wt 314, health value 6, $1.75 left ... ALIVE
+    Bandit eats a dawg wt 227, health value 59, $4.75 left ... ALIVE
+    Blue eats a dawg wt 302, health value 10, $1.75 left ... ALIVE
+    Bill eats a dawg wt 144, health value 6, $0.75 left ... ALIVE
+
+-------------------------- ROUND #19 ---------------------------
+
+Hawt dawg price: $1.25
+
+    Clayton eats a dawg wt 318, health value 4, $0.50 left ... ALIVE
+    Abby eats a dawg wt 168, health value 26, $1.00 left ... ALIVE
+    Bandit eats a dawg wt 231, health value 57, $3.50 left ... ALIVE
+    Beau eats a dawg wt 134, health value 5, $0.25 left ... ALIVE
+    Blue eats a dawg wt 306, health value 8, $0.50 left ... ALIVE
+
+-------------------------- ROUND #20 ---------------------------
+
+Hawt dawg price: $6.50
+
+
+There are no more contestants that can afford to buy a hawt dawg.
+The winner is the contestant with the highest health value.
+In this case, we have more than one person with the same highest health value, so they are all winners!
+....And they are....: 
+Alex 202 lbs, has 63 health value and $0.25 left.
+Annie 123 lbs, has 63 health value and $0.75 left.
+
+Cletus made $601.25!
+He now has $751.25!
+
+Thank You for participating....Hope to see you soon!
+
